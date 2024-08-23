@@ -3,3 +3,39 @@
     height: 120px;
     background: rgb(0, 0, 0);
 }
+
+#flu {
+    filter: blur(1.25px);
+    width: 80vw;
+    height: 100vh;
+    float: right;
+}
+
+#Ot {
+    width: 99vw;
+    height: 200px;
+    background: rgb(0, 0, 0);
+    float: inline-end;
+}
+
+#fx {
+    width: 22.9vw;
+    height: 200px;
+    background: rgb(29, 29, 29);
+}
+
+#ld {
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 7px 3px rgb(255, 255, 255);
+    font-weight: bolder;
+    text-align: left;
+}
+
+#ld2 {
+    color: rgb(234, 234, 234);
+    text-shadow: 0 0 6px rgb(255, 255, 255);
+    font-weight: bolder;
+    text-align: left;
+}
+
