@@ -5,7 +5,7 @@
 }
 
 #flu {
-    filter: blur(1px);
+    filter: blur(0.5px);
     width: 80vw;
     height: 100vh;
     float: right;
